@@ -1,0 +1,5 @@
+Number of great images:9
+Number of good images:1
+Number of bad images:0
+>>>>>>>Complete computatiom time: 98.640 seconds<<<<<<<
+

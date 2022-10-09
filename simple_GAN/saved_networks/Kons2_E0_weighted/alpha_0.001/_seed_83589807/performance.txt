@@ -1,0 +1,15 @@
+>Actual lambda: [0.00,1.00]
+>>Loss iteration:100, d=0.4168, g=1.0510
+>>Loss iteration:200, d=0.2725, g=1.3717
+>>Loss iteration:300, d=0.2520, g=1.4750
+>>Loss iteration:400, d=0.3233, g=1.2049
+>>Loss iteration:500, d=0.3907, g=1.1219
+>>Loss iteration:600, d=0.4921, g=0.8821
+>>Loss iteration:700, d=0.5428, g=0.8506
+>>Loss iteration:800, d=0.5845, g=0.7641
+>>Loss iteration:900, d=0.6842, g=0.7519
+>>Loss iteration:1000, d=0.7384, g=0.5920
+>>Loss iteration:1000, d=0.7070, g=0.7129
+>Accuracy discriminator: real: 50%, fake: 38%
+>>>>>>>Execution time: 9.674 seconds<<<<<<<
+

@@ -1,0 +1,14 @@
+>>Loss iteration:100, d=0.5214, g=0.8729
+>>Loss iteration:200, d=0.4132, g=1.0180
+>>Loss iteration:300, d=0.4143, g=1.0657
+>>Loss iteration:400, d=0.5400, g=0.8143
+>>Loss iteration:500, d=0.6055, g=0.7758
+>>Loss iteration:600, d=0.6858, g=0.6638
+>>Loss iteration:700, d=0.7069, g=0.6626
+>>Loss iteration:800, d=0.7104, g=0.6369
+>>Loss iteration:900, d=0.7680, g=0.6387
+>>Loss iteration:1000, d=0.7783, g=0.5857
+>>Loss iteration:1000, d=0.7691, g=0.6286
+>Accuracy discriminator: real: 12%, fake: 25%
+>>>>>>>Execution time: 9.220 seconds<<<<<<<
+
